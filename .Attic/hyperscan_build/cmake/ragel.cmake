@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # function for doing all the dirty work in turning a .rl into C++
 
 function(ragelmaker src_rl)

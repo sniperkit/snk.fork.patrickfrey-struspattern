@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # The `backtrace' function is available on Linux via glibc, and on FreeBSD if
 # the 'libexecinfo' package is installed.
 

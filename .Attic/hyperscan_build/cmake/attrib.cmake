@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # tests for compiler properties
 
 # set -Werror so we can't ignore unused attribute warnings

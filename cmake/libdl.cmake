@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if (NOT LIBDL_LIBRARY)
 find_library( LIBDL_LIBRARY dl)
 if( LIBDL_LIBRARY  AND NOT LIBDL_LIBRARY STREQUAL "LIBDL_LIBRARY-NOTFOUND" )

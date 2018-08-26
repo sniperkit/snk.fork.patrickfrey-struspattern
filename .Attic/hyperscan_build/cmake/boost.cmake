@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Various checks related to Boost
 
 set(BOOST_USE_STATIC_LIBS OFF)

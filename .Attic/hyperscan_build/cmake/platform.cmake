@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # determine the target arch
 
 # really only interested in the preprocessor here

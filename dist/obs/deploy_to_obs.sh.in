@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #!/bin/sh
 
 PACKAGE_NAME=struspattern

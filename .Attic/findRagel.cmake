@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # CMake module for building Ragel machine files.
 #
 # Author:   2014-05-10, Georg Sauthoff mail@georg.so

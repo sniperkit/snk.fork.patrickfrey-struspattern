@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 prefix=@CMAKE_INSTALL_PREFIX@
 exec_prefix=@CMAKE_INSTALL_PREFIX@
 libdir=@CMAKE_INSTALL_PREFIX@/lib

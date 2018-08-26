@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # detect architecture features
 #
 # must be called after determining where compiler intrinsics are defined
